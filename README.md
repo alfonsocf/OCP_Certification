@@ -1,2 +1,2 @@
 # OCP_Certification
-OCP certification exercises
+These are some of the practices I am developing during the OCP certification
